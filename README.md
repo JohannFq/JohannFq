@@ -79,7 +79,7 @@ Soy un desarrollador super apasionado por la programación, me gusta los retos y
 ## 📊 Most Used Languages:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannFq&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>
 
 ---
@@ -87,11 +87,11 @@ Soy un desarrollador super apasionado por la programación, me gusta los retos y
 ## 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JohannFq&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=JohannFq&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=80&section=footer" width="100%"/>
