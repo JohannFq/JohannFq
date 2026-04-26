@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://TU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/johannqf">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://TU_PORTAFOLIO">
@@ -20,8 +20,7 @@
 ## 🧠 Sobre mí
 
 - 💡 Me enfoco en resolver problemas de forma práctica y escalable  
-- 🛠️ Experiencia trabajando con múltiples tecnologías y stacks  
-- 📚 Actualmente profundizando en desarrollo fullstack  
+- 📚 Actualmente profundizando en desarrollo backend  
 - 🤝 Abierto a colaboración en proyectos interesantes  
 
 ---
@@ -41,11 +40,6 @@
 
 ### ⚙️ Frameworks & Librerías
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge)
@@ -54,7 +48,6 @@
 
 ### 🗄️ Bases de Datos
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
@@ -62,7 +55,6 @@
 
 ### 🛠️ Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ---
 
@@ -103,11 +95,11 @@
 
 ## 📫 Contacto
 
-- LinkedIn: https://TU_LINKEDIN  
+- LinkedIn: https:www.linkedin.com/in/johannqf 
 - Portafolio: https://TU_PORTAFOLIO  
 
 ---
 
 <p align="center">
-  ⚡ “Siempre construyendo, siempre aprendiendo.”
+  ⚡ "El código es como el humor. Cuando tienes que explicarlo, es malo." – Cory House
 </p>
