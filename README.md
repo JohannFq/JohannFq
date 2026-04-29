@@ -2,7 +2,7 @@
 
 ## 🔥 About Me:
 
-Soy un desarrollador super apasionado por la programación, me gusta los retos y trato de resolverlos de manera efectiva. Me encanta aprender nuevas tecnologías en el cual facilite mi trabajo al desarrollar. Mi objetivo es saber mas tecnologías de programación y poder ayudar y colaborar con gente de todo el mundo.
+Desafíos, código y aprendizaje continuo. Soy un desarrollador enfocado en resolver problemas de forma ágil y efectiva. Me apasiona adoptar nuevas tecnologías para optimizar cada línea de código, con el objetivo final de colaborar con equipos globales y construir el futuro digital juntos.
 
 ---
 
@@ -14,7 +14,7 @@ Soy un desarrollador super apasionado por la programación, me gusta los retos y
 
 ## 💼 Portfolio:
 
-[![Visitar mi portafolio](https://img.shields.io/badge/Visitar%20mi%20portafolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://TU_PORTAFOLIO)
+[![Visitar mi portafolio](https://img.shields.io/badge/Visitar%20mi%20portafolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://johannfq.github.io/Portafolio/)
 
 ---
 
